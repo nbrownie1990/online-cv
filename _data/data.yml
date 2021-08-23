@@ -13,11 +13,10 @@ sidebar:
 
   # Sidebar links
   email: nina.braunger@gmail.com
-  Geburtsdatum: 17.05.1990
   phone: 01514 1212 300
   website: ninabraunger.de #do not add http://
-  linkedin: ninabraunger
-  xing: ninabraunger
+  linkedin: Nina Braunger
+  xing: Nina Braunger
   github: nbrownie1990
   stack-overflow: 15637451/nbrownie1990 #Number/Username, e.g. 123456/alandoe
 
@@ -61,7 +60,8 @@ education:
     time: 2011 - 2015
 
 experiences:
-  - role: Projectmanager in the directorate for patient and care management
+  - role: Projectmanager in the directorate for
+      patient and care management
     time: 05/2019 – 03/2021
     company: Universitätsklinikum Eppendorf, Hamburg
     details: |
