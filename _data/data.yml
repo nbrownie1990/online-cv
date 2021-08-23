@@ -45,12 +45,12 @@ sidebar:
 career-profile:
   title: Profil
   summary: |
-  The Covid19 pandemic has changed a lot and has been dominating our lives for months.
-  In addition to the negative consequences, there are also a few very positive ones,
-  because the pandemic accelerates the digitalization of our working world.
-  I have always been interested in learning new technologies - this together creates a new professional perspective for me.
-  Graduated since April 2021 I do various online courses and a webdevelopment-bootcamp to get a lateral entry
-  to venture into software development.
+     The Covid19 pandemic has changed a lot and has been dominating our lives for months.
+     In addition to the negative consequences, there are also a few very positive ones,
+     because the pandemic accelerates the digitalization of our working world.
+     I have always been interested in learning new technologies, this together creates a new professional perspective for me.
+     Graduated since April 2021 I do various online courses and a webdevelopment-bootcamp to get a lateral entry
+     to venture into software development.
 
 education:
   - degree: M.Sc. Public Health (part-time)
@@ -111,7 +111,7 @@ experiences:
 projects:
   title: Projects
   intro: >
-    Here comes a very short list of my current projects. To be continued... :)
+      Here comes a very short list of my current projects. To be continued... :)
   assignments:
     - title: The Ultimate Cheatsheet
       link: "#"
