@@ -23,8 +23,9 @@ sidebar:
  
 
   languages:
-  - idiom: German
+    - idiom: German
       level: Native
+      
     - idiom: English
       level: in depth through a semester abroad in Australia
 
