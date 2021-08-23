@@ -38,7 +38,7 @@ sidebar:
     - item: Playing the piano & guitar
       link:
 
-    - item: Programming :)
+    - item: Programming
       link:
 
 career-profile:
@@ -118,7 +118,7 @@ projects:
 
     - title: Grow through flow
       link: "#"
-      tagline: "A github repository with mini-web-projects using HTML, CSS & JS and other cool stuff. Never stop learning :)"
+      tagline: "A github repository with mini-web-projects using HTML, CSS & JS and other cool stuff. Never stop learning."
  
     - title: Portfolio-Site
       link: "#hook"
