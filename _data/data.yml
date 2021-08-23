@@ -13,14 +13,13 @@ sidebar:
 
   # Sidebar links
   email: nina.braunger@gmail.com
-  Geburtsdatum: 17.05.1990 
+  Geburtsdatum: 17.05.1990
   phone: 01514 1212 300
   website: ninabraunger.de #do not add http://
   linkedin: ninabraunger
   xing: ninabraunger
   github: nbrownie1990
   stack-overflow: 15637451/nbrownie1990 #Number/Username, e.g. 123456/alandoe
- 
 
   languages:
     - idiom: German
@@ -45,25 +44,25 @@ sidebar:
 career-profile:
   title: Profil
   summary: |
-     The Covid19 pandemic has changed a lot and has been dominating our lives for months.
-     In addition to the negative consequences, there are also a few very positive ones,
-     because the pandemic accelerates the digitalization of our working world.
-     I have always been interested in learning new technologies, this together creates a new professional perspective for me.
-     Graduated since April 2021 I do various online courses and a webdevelopment-bootcamp to get a lateral entry
-     to venture into software development.
+    The Covid19 pandemic has changed a lot and has been dominating our lives for months.
+    In addition to the negative consequences, there are also a few very positive ones,
+    because the pandemic accelerates the digitalization of our working world.
+    I have always been interested in learning new technologies, this together creates a new professional perspective for me.
+    Graduated since April 2021 I do various online courses and a webdevelopment-bootcamp to get a lateral entry
+    to venture into software development.
 
 education:
   - degree: M.Sc. Public Health (part-time)
     university: Jade University of Applied Sciences, Oldenburg
     time: 2016 - 2019
- 
+
   - degree: B.A. Social- and Healthmanagement
     university: University of Applied Sciences Emden/Leer
     time: 2011 - 2015
-   
+
 experiences:
-  - role: Projectmanager in the directorate for patient and care management 
-    time: 05/2019 – 03/2021 
+  - role: Projectmanager in the directorate for patient and care management
+    time: 05/2019 – 03/2021
     company: Universitätsklinikum Eppendorf, Hamburg
     details: |
       - Management, coordination and moderation of cross-center projects (e.g. patient orientation forum, an interdisciplinary and cross-hierarchical working group with 40-50 people)
@@ -74,7 +73,7 @@ experiences:
       - Creation and preparation of decision templates, e.g. statements on NPR resolutions and in the employee suggestion system
   - role: Junior consultant health promotion
     time: 07/2017 - 04/2019
-    company: Otto (GmbH & Co KG), Hamburg 
+    company: Otto (GmbH & Co KG), Hamburg
     details: |
       - Project and event management in the workplace health promotion
       - Cooperationmanagement "Die Techniker" (healthinsurance)
@@ -86,21 +85,21 @@ experiences:
       - Workplace Health Promotion
       - Project and event management
       - Cooperation management "Die Techniker" (healthinsurance)
-- role: Volunteer and social manager
+  - role: Volunteer and social manager
     time: 05/2016 - 09/2016
     company: Malteser Hilfsdienst gGmbH, Hamburg
     details: |
       - Social work activities with refugees
       - Coordination of volunteers
       - Organization of the holiday program for children of refugees
-- role: Intern in company health management
+  - role: Intern in company health management
     time: 08/2015 - 04/2016
     company: Otto (GmbH & Co KG), Hamburg
     details: |
       - Workplace Health Promotion
       - Project and event management
       - Cooperation management "Die Techniker" (healthinsurance)
-- role: Working student in health promotion
+  - role: Working student in health promotion
     time: 10/2016 - 06/2017
     company: Otto (GmbH & Co KG), Hamburg
     details: |
@@ -111,7 +110,7 @@ experiences:
 projects:
   title: Projects
   intro: >
-      Here comes a very short list of my current projects. To be continued... :)
+    Here comes a very short list of my current projects. To be continued... :)
   assignments:
     - title: The Ultimate Cheatsheet
       link: "#"
@@ -120,12 +119,10 @@ projects:
     - title: Grow through flow
       link: "#"
       tagline: "A github repository with mini-web-projects using HTML, CSS & JS and other cool stuff. Never stop learning."
- 
+
     - title: Portfolio-Site
       link: "#hook"
       tagline: "A responsive website to show my current portfolio."
-
-
 
 skills:
   title: Skills &amp; Proficiency
