@@ -98,13 +98,6 @@ experiences:
       - Workplace Health Promotion
       - Project and event management
       - Cooperation management "Die Techniker" (healthinsurance)
-  - role: Working student in health promotion
-    time: 10/2016 - 06/2017
-    company: Otto (GmbH & Co KG), Hamburg
-    details: |
-      - Corporate Health Management
-      - Health marketing, project and event management
-      - Quality management
 
 projects:
   title: Projects
@@ -128,7 +121,7 @@ skills:
 
   toolset:
     - name: Java
-      level: 50%
+      level: 30%
 
     - name: HTML5 & CSS
       level: 95%
@@ -137,7 +130,7 @@ skills:
       level: 40%
 
     - name: Figma & Photoshop
-      level: 60%
+      level: 50%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
