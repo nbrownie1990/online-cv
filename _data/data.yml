@@ -105,15 +105,15 @@ projects:
     Here comes a very short list of my current projects. To be continued... :)
   assignments:
     - title: The Ultimate Cheatsheet
-      link: "#"
+      link: "https://www.ninabraunger.de/the_ultimate_cheatsheet/"
       tagline: "A wiki designed to help self-taught developers(especially me) for a good start in this new field."
 
     - title: Grow through flow
-      link: "#"
+      link: "https://github.com/nbrownie1990/grow_through_flow"
       tagline: "A github repository with mini-web-projects using HTML, CSS & JS and other cool stuff. Never stop learning."
 
     - title: Portfolio-Site
-      link: "#hook"
+      link: "https://www.ninabraunger.de/"
       tagline: "A responsive website to show my current portfolio."
 
 skills:
