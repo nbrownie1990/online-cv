@@ -141,7 +141,7 @@ skills:
       level: 40%
 
     - name: JavaScript
-      level: 60%
+      level: 50%
       
     - name: React
       level: 40%
@@ -156,7 +156,7 @@ skills:
       level: 40%
 
     - name: Figma & Photoshop
-      level: 50%
+      level: 40%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
