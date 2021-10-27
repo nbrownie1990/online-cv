@@ -22,23 +22,21 @@ sidebar:
 
   languages:
     - idiom: German
-      level: Native
+      level: native
 
     - idiom: English
-      level: in depth through a semester abroad in Australia
+      level: conversational
 
   interests:
     - item: Travelling
       link:
 
-    - item: Landscape photography
-      link:
-
-    - item: Playing the piano & guitar
-      link:
-
     - item: Programming
       link:
+
+    - item: Piano & Guitar
+      link:
+
 
 career-profile:
   title: Profil
@@ -86,15 +84,15 @@ experiences:
     details: |
       - Project and event management in the workplace health promotion
       - Cooperationmanagement "Die Techniker" (healthinsurance)
-      - Coordination of the in-house fitness studio (900 members) and company sports (40 sports -1200 members), including support for the intranet site, MS Sharepoint for interdisciplinary collaboration
+      - Coordination of the in-house fitness studio (900 members) and company sports (40 sportstypes - 1200 members), including tech- and admin- support of the intranet site (MS Sharepoint)
   - role: Working student in health management
     time: 10/2016 - 06/2017
     company: Otto (GmbH & Co KG), Hamburg
     details: |
       - Workplace Health Promotion
       - Project and event management
-      - Cooperation management "Die Techniker" (healthinsurance)
-  - role: Volunteer- and socialmanager
+      - Cooperation management "Die Techniker" (health insurance)
+  - role: Volunteer- and social manager
     time: 05/2016 - 09/2016
     company: Malteser Hilfsdienst gGmbH, Hamburg
     details: |
@@ -107,20 +105,20 @@ experiences:
     details: |
       - Workplace Health Promotion
       - Project and event management
-      - Cooperation management "Die Techniker" (healthinsurance)
+      - Cooperation management "Die Techniker" (health insurance)
 
 projects:
   title: Projects
   intro: >
-    Here comes a very short list of my current projects. To be continued... :)
+    Here comes a very short list of my current projects. To be continued.
   assignments:
     - title: The Ultimate Cheatsheet
       link: "https://www.ninabraunger.de/the_ultimate_cheatsheet/"
-      tagline: "A wiki designed to help self-taught developers(especially me) for a good start in this new field."
+      tagline: "A wiki designed to help self-taught developers (especially me) for a good start in this new field."
 
     - title: Grow through flow
       link: "https://github.com/nbrownie1990/grow_through_flow"
-      tagline: "A github repository with mini-web-projects using HTML, CSS & JS and other cool stuff. Never stop learning."
+      tagline: "A github repository with mini-web-projects using HTML5, CSS3 & JavaScript"
 
     - title: Portfolio-Site
       link: "https://www.ninabraunger.de/"
