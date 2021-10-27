@@ -60,6 +60,16 @@ education:
     time: 2011 - 2015
 
 experiences:
+  - role: Professional reorientation in software development
+    time: 04/2021 – 10/2021
+    company: Code with Mosh, Colt Steele - The Web Developer-Bootcamp (Udemy)
+    details: |
+      - 160 hours of different online-courses and a lot of hours programming practices in self-study
+      - currently inhouse-development of a web app (Spring-Boot, Maven, Docker, React, Sass, Bootstrap, PostgreSQL)
+      - Applied technologies and tools:
+        - Java, Spring-Boot, JavaScript, Node.js, React, PostgreSQL, HTML5, CSS3, 
+        - Docker, Github, IntelliJ, VSCode 
+     
   - role: Projectmanager patient & care management
     time: 05/2019 – 03/2021
     company: Universitätsklinikum Eppendorf, Hamburg
