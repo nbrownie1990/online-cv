@@ -125,19 +125,23 @@ projects:
     - title: Portfolio-Site
       link: "https://www.ninabraunger.de/"
       tagline: "A responsive website to show my current portfolio."
+      
+    - title: Jumbles
+      link: "https://www.ninabraunger.de/online-cv/"
+      tagline: " - the right place for your stuff (First own WebApp - in progress)"
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
     - name: Java
-      level: 30%
+      level: 60%
 
     - name: HTML5 & CSS
-      level: 95%
+      level: 80%
 
     - name: JavaScript
-      level: 40%
+      level: 50%
 
     - name: Figma & Photoshop
       level: 50%
