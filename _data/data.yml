@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Nina Braunger
-  tagline: Frontend Web Developer
+  tagline: Selftaught Web Developer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -136,12 +136,24 @@ skills:
   toolset:
     - name: Java
       level: 60%
-
-    - name: HTML5 & CSS
-      level: 80%
+    
+    - name: Spring-Boot
+      level: 40%
 
     - name: JavaScript
-      level: 50%
+      level: 60%
+      
+    - name: React
+      level: 40%
+    
+    - name: Node.js
+      level: 40%
+      
+    - name: HTML5 & CSS3
+      level: 80%
+      
+    - name: Git, Docker & PostgreSQL 
+      level: 40%
 
     - name: Figma & Photoshop
       level: 50%
