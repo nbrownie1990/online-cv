@@ -39,13 +39,13 @@ sidebar:
 
 
 career-profile:
-  title: Profil
+  title: About
   summary: |
     The Covid19 pandemic has changed a lot and has been dominating our lives for months.
-    In addition to the negative consequences, there are also a few very positive ones,
+    In addition to the negative consequences there are a few very positive ones
     because the pandemic accelerates the digitalization of our working world.
     I have always been interested in learning new technologies, this together creates a new professional perspective for me.
-    Graduated since April 2021 I do various online courses and a webdevelopment-bootcamp to get a lateral entry
+    Since april 2021 I do various online courses and a webdevelopment-bootcamp to get a lateral entry
     to venture into software development.
 
 education:
@@ -62,7 +62,8 @@ experiences:
     time: 04/2021 – 10/2021
     company: Code with Mosh, Colt Steele - The Web Developer-Bootcamp (Udemy)
     details: |
-      - 160 hours of different online-courses and a lot of hours programming practices in self-study
+      - 160+ hours of different online-courses 
+      - 7-9 hours of programming practices in self-study every day since April
       - currently inhouse-development of a web app (Spring-Boot, Maven, Docker, React, Sass, Bootstrap, PostgreSQL)
       - Applied technologies and tools:
         - Java, Spring-Boot, JavaScript, Node.js, React, PostgreSQL, HTML5, CSS3, 
